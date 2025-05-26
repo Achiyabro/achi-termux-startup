@@ -41,7 +41,7 @@ bash install.sh
 
 For any inquiries or customization requests, feel free to contact me via:
 
-Facebook: Achiyabro
+Facebook: https://www.facebook.com/share/1KCrPk8JcF/
 
 
 
