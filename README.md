@@ -1,6 +1,6 @@
 # 🎉 ACHIACHI Termux Startup System
 
-![Banner](./banner.jpg)
+![Banner](https://github.com/Achiyabro/achi-termux-startup/blob/main/termux%20s.png?raw=true)
 
 **Author**: [Achiyabro](https://github.com/Achiyabro)  
 **Version**: 1.0  
