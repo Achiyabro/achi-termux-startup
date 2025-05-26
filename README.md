@@ -21,11 +21,7 @@ A customizable Termux startup experience with banner, date display, system info,
 git clone https://github.com/Achiyabro/achi-termux-startup
 cd achi-termux-startup
 bash install.sh
-
-
-
-```md
----
+```
 
 ---
 
