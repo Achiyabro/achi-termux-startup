@@ -15,22 +15,28 @@ A customizable Termux startup experience with banner, date display, system info,
 සිංහලෙන්: Termux ඇප් එක විවෘත වෙද්දී banner එකක්, දිනය, system info එක සහ "Welcome to ACHIACHI OFFICIAL" වගේ sound එකක් play වෙන සුපිරි startup system එකක්.
 
 ---
+## 📦 Installation
+
+```bash
+git clone https://github.com/Achiyabro/achi-termux-startup
+cd achi-termux-startup
+bash install.sh
 
 
----
-
-### **2. ඒකට just යටින් මේක full paste කරන්න:**
 
 ```md
 ---
 
-## 🔧 Customization
+---
+
+
+### 🔧 Customization
 
 ඔයාට ඔයාගේම mp3 සවුන්ඩ් එකක් `achi_start.mp3` නමින් `~/` (home) directory එකේ දාන්න පුළුවන්. එවිට Termux ඇප් එක විවෘත වන විට ඒ සවුන්ඩ් එක play වේ.
 
 ---
 
-## 📸 Screenshot
+#### 📸 Screenshot
 
 (මෙතැනට ඔබේ system එකේ screenshot එකක් GitHub repo එකට upload කරලා image එකක් link කරන්න.)
 
