@@ -24,17 +24,16 @@ cd achi-termux-startup
 bash install.sh
 
 ---
+
 ## 🔧 Customization
 
-ඔයාට ඔයාගේම mp3 සවුන්ඩ් එකක් achi_start.mp3 නමින් ~/ (home) directory එකේ දාන්න පුළුවන්. එවිට Termux ඇප් එක විවෘත වන විට ඒ සවුන්ඩ් එක play වේ.
-
+ඔයාට ඔයාගේම mp3 සවුන්ඩ් එකක් `achi_start.mp3` නමින් `~/` (home) directory එකේ දාන්න පුළුවන්. එවිට Termux ඇප් එක විවෘත වන විට ඒ සවුන්ඩ් එක play වේ.
 
 ---
 
 ## 📸 Screenshot
 
-
-
+(මෙතැනට ඔබේ system එකේ screenshot එකක් GitHub repo එකට upload කරලා image එකක් link කරන්න.)
 
 ---
 
@@ -42,56 +41,25 @@ bash install.sh
 
 For any inquiries or customization requests, feel free to contact me via:
 
-## Facebook: https://www.facebook.com/share/1KCrPk8JcF/
-
-
+**Facebook**: [Achiyabro Facebook](https://www.facebook.com/share/1KCrPk8JcF/)
 
 ---
 
 ## ✅ Features
 
-🎨 Custom ASCII banner
-
-📅 Current date display
-
-💻 System information via neofetch
-
-🔊 Welcome voice using mpv
-
-🛠️ Easy installation script
-
-
+- 🎨 Custom ASCII banner  
+- 📅 Current date display  
+- 💻 System information via `neofetch`  
+- 🔊 Welcome voice using `mpv`  
+- 🛠️ Easy installation script  
 
 ---
 
 ## 💡 Notes
 
-Ensure toilet, lolcat, neofetch, and mpv are installed in your Termux environment.
+Ensure `toilet`, `lolcat`, `neofetch`, and `mpv` are installed in your Termux environment.
 
-If any of these are missing, you can install them using pkg install command.
+Install them using:
 
-
-
----
-
-## 🧾 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### 🛠️ Instructions to Implement
-
-1. **Images**: Replace `banner.jpg` and `screenshot.jpg` with your actual image files. Ensure they are placed in the root directory of your repository.
-
-2. **Install Script**: Ensure `install.sh` is present in your repository and is executable. This script should handle copying necessary files and setting up the environment.
-
-3. **Push Changes**:
-
-   ```bash
-   git add README.md banner.jpg screenshot.jpg install.sh
-   git commit -m "Add README with banner and screenshot"
-   git push
-
-
----
+```bash
+pkg install toilet lolcat neofetch mpv -y
