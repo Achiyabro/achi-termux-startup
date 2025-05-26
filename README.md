@@ -23,31 +23,31 @@ git clone https://github.com/Achiyabro/achi-termux-startup
 cd achi-termux-startup
 bash install.sh
 
-🔧 Customization
+## 🔧 Customization
 
 ඔයාට ඔයාගේම mp3 සවුන්ඩ් එකක් achi_start.mp3 නමින් ~/ (home) directory එකේ දාන්න පුළුවන්. එවිට Termux ඇප් එක විවෘත වන විට ඒ සවුන්ඩ් එක play වේ.
 
 
 ---
 
-📸 Screenshot
+## 📸 Screenshot
 
 
 
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 For any inquiries or customization requests, feel free to contact me via:
 
-Facebook: https://www.facebook.com/share/1KCrPk8JcF/
+## Facebook: https://www.facebook.com/share/1KCrPk8JcF/
 
 
 
 ---
 
-✅ Features
+## ✅ Features
 
 🎨 Custom ASCII banner
 
@@ -63,7 +63,7 @@ Facebook: https://www.facebook.com/share/1KCrPk8JcF/
 
 ---
 
-💡 Notes
+## 💡 Notes
 
 Ensure toilet, lolcat, neofetch, and mpv are installed in your Termux environment.
 
@@ -73,7 +73,7 @@ If any of these are missing, you can install them using pkg install command.
 
 ---
 
-🧾 License
+## 🧾 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
