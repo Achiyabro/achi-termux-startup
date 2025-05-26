@@ -1,4 +1,4 @@
-# 🎉 ACHIACHI Termux Startup System
+# 💀 ACHIACHI Termux Startup System
 
 ![Banner](https://github.com/Achiyabro/achi-termux-startup/blob/main/termux%20s.png?raw=true)
 
@@ -23,6 +23,7 @@ git clone https://github.com/Achiyabro/achi-termux-startup
 cd achi-termux-startup
 bash install.sh
 
+---
 ## 🔧 Customization
 
 ඔයාට ඔයාගේම mp3 සවුන්ඩ් එකක් achi_start.mp3 නමින් ~/ (home) directory එකේ දාන්න පුළුවන්. එවිට Termux ඇප් එක විවෘත වන විට ඒ සවුන්ඩ් එක play වේ.
