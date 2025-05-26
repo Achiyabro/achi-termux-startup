@@ -24,6 +24,3 @@ cd achi-termux-startup
 bash install.sh
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+achi⚡termux+startup!;Simple+Tools+for+Hackers+%26+Fun;Made+by+Achiyabro&font=Fira+Code&center=true&width=440&height=45&color=06F700&vCenter=true&size=20" alt="Typing SVG">
-</p>
